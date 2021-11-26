@@ -7,13 +7,9 @@ RoboFriends is my first app using react.
 ![RoboFriends Capture](https://i.imgur.com/jmKGp6c.jpg)
 
 ## Technologies Used
-
-### Front-End
  - React.js
- - 
-### React Packages
-- Tachyons
+ - Tachyons 
 
-### APIs
+## APIs
 - [RoboHash](https://robohash.org/)
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
